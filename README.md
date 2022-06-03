@@ -41,3 +41,5 @@ tanzu apps workload get simple-node-express
 To access the deployed app open the URL shown in your browser.
 
 This depends on the TAP installation having DNS configured for the Knative ingress.
+
+Test deployment
